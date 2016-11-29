@@ -11,7 +11,7 @@ import android.widget.TextView;
 public class Main3Activity extends Activity implements GestureDetector.OnGestureListener, GestureDetector.OnDoubleTapListener {
     GestureDetector mDetector;
     TextView textViewMessage;
-    String s = "";
+    //String s = "";
     // Called when the activity is first created.
     @Override
     public void onCreate(Bundle savedInstanceState) {
