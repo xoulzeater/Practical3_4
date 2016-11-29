@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical3_4</string>
+    <string name="first_title">First</string>
+    <string name="second_title">Second</string>
+    <string name="title">Title</string>
+    <string name="hello_world">Hello World!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
